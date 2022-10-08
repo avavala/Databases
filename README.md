@@ -4,6 +4,7 @@ Repository containing the tasks assigned for the Databases lectures
 - PostgreSQL
 - SQLite Studio
 - MySQL Workbench
+- Talend ETL
 
 #### Outcome of the course:
 - Creating and interacting with Databases
